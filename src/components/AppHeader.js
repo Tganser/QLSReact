@@ -9,7 +9,7 @@ const AppHeader = () => (
   <AppBar position="static">
     <Toolbar>
       <Typography variant="title" color="inherit">
-        My React App
+        Quercus Land Stewardship Services
       </Typography>
     </Toolbar>
   </AppBar>
